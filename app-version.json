@@ -1,7 +1,7 @@
 {
-  "version": "1.1.21",
-  "release_date": "2018年5月29日10:07:37",
-  "desc": "版本：1.1.21 更新内容：1. 页面来回切换后，显示真实选择的时间 2. 库存数据获取上个月数据",
+  "version": "1.1.22",
+  "release_date": "2018年5月29日16:38:22",
+  "desc": "版本：1.1.22 更新内容：1. 股权股票数据中心可以自由排序",
   "app_name": "yotrioSMRPT",
   "app_url_android": "http://192.168.0.97:6800/APK/android-armv7-debug.apk",
   "app_url_iOS": ""
